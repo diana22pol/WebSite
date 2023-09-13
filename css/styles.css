@@ -1,0 +1,34 @@
+@import "./header.css";
+@import "./hero.css";
+@import "./articles.css";
+@import "./customer.css";
+@import "./footer.css";
+
+
+body{
+    font-family: Rubik;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 400;
+    margin: 0;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #7D7987;
+    line-height: 30px;
+}
