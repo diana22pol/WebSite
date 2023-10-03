@@ -1,0 +1,42 @@
+
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 60px;
+}
+
+nav_elements ul {
+    list-style-type: none;
+    display: flex;
+    font-size: 16px;
+    color: black;
+}
+
+ul {
+    margin-right: 200px;
+}
+
+logo img{
+    width: 158px;
+}
+
+li a {
+    color: black;
+    font-weight: 200;
+
+}
+nav_element{
+    color: black;
+
+}
+
+.bold_nav_element {
+    font-weight: 400;
+}
+
